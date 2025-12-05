@@ -50,10 +50,10 @@
           <mxGeometry height="40" width="160" x="520" y="200" as="geometry" />
         </mxCell>
         <mxCell id="FDyulPT5yck9rYvz-hUF-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gallons" vertex="1">
-          <mxGeometry height="40" width="160" x="200" y="270" as="geometry" />
+          <mxGeometry height="40" width="160" x="360" y="270" as="geometry" />
         </mxCell>
         <mxCell id="FDyulPT5yck9rYvz-hUF-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fuel_Grade" vertex="1">
-          <mxGeometry height="40" width="160" x="360" y="270" as="geometry" />
+          <mxGeometry height="40" width="160" x="200" y="270" as="geometry" />
         </mxCell>
         <mxCell id="FDyulPT5yck9rYvz-hUF-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Price_Per_Gallon" vertex="1">
           <mxGeometry height="40" width="160" x="520" y="270" as="geometry" />
@@ -85,17 +85,14 @@
         <mxCell id="FDyulPT5yck9rYvz-hUF-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Street" vertex="1">
           <mxGeometry height="40" width="160" x="360" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDyulPT5yck9rYvz-hUF-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Coordinates" vertex="1">
+        <mxCell id="FDyulPT5yck9rYvz-hUF-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regular_Price" vertex="1">
           <mxGeometry height="40" width="160" x="1000" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDyulPT5yck9rYvz-hUF-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regular_Price" vertex="1">
+        <mxCell id="FDyulPT5yck9rYvz-hUF-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Premium_Price" vertex="1">
           <mxGeometry height="40" width="160" x="1160" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDyulPT5yck9rYvz-hUF-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Premium_Price" vertex="1">
-          <mxGeometry height="40" width="160" x="1320" y="40" as="geometry" />
-        </mxCell>
         <mxCell id="FDyulPT5yck9rYvz-hUF-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Diesel_Price" vertex="1">
-          <mxGeometry height="40" width="160" x="1480" y="40" as="geometry" />
+          <mxGeometry height="40" width="160" x="1320" y="40" as="geometry" />
         </mxCell>
         <mxCell id="FDyulPT5yck9rYvz-hUF-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User_Id" vertex="1">
           <mxGeometry height="40" width="160" x="680" y="-40" as="geometry" />
